@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Google_Authenticator_netcore</RootNamespace>
+
+    <PackageId>Google-Authenticator-netcore</PackageId>
+    <Version>1.1</Version>
+    <Authors>mrben</Authors>
+  </PropertyGroup>
+
+</Project>
